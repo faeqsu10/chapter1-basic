@@ -1,0 +1,5 @@
+git clone 쉬프트+인서트
+
+.git 
+
+git add 
